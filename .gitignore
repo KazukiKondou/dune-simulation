@@ -8,3 +8,8 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# サーバ実行時の生成物（結果PNG/HTMLは追跡する。以下は除外）
+.venv/
+*.log
+
